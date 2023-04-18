@@ -27,7 +27,7 @@
         "BOT_IMAGE": {
             "description": "𝗕𝗼𝘁 𝗜𝗺𝗮𝗴𝗲 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗟𝗶𝗻𝗸",
             "required": true,
-            "value": "https://graph.org/file/ae44ceeed0e39f91e81f8.jpg"
+            "value": "https://graph.org/file/b2bf6e60f7e6cdb433ce4.jpg"
         },
         "BOT_NAME": {
             "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲",
