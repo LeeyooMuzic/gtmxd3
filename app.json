@@ -1,0 +1,95 @@
+{
+    "name": "GMBXD2",
+    "logo": "https://te.legra.ph/file/43eb81b7a99092f9a3197.jpg",
+    "description": "🌱 𝗔𝗻 𝗮𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹𝗹 𝗮𝗻𝗱 𝗦𝘂𝗽𝗲𝗿𝗳𝗮𝘀𝘁 𝗠𝘂𝘀𝗶𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 𝗙𝗼𝗿 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗚𝗿𝗼𝘂𝗽 𝗩𝗖.",
+    "keywords": ["grootmusicbot", "voice chat", "telegram"],
+    "repository": "",
+    "stack": "container",
+    "env": {
+        "API_HASH": {
+            "description": "𝗔𝗽𝗶 𝗛𝗮𝘀𝗵 𝗼𝗳 𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁",
+            "required": true
+        },
+        "API_ID": {
+            "description": "𝗔𝗽𝗶 𝗜𝗱 𝗼𝗳 𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁",
+            "required": true
+        },
+        "ASSISTANT_NAME": {
+            "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗡𝗮𝗺𝗲",
+            "required": true,
+            "value": "𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸"
+        },
+        "ASSISTANT_USERNAME": {
+            "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗨𝘀𝗲𝗿𝗡𝗮𝗺𝗲 (𝗪𝗶𝘁𝗵𝗼𝘂𝘁 '@')",
+            "required": true,
+            "value": "GnetworkMusic"
+        },
+        "BOT_IMAGE": {
+            "description": "𝗕𝗼𝘁 𝗜𝗺𝗮𝗴𝗲 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗟𝗶𝗻𝗸",
+            "required": true,
+            "value": "https://te.legra.ph/file/43eb81b7a99092f9a3197.jpg"
+        },
+        "BOT_NAME": {
+            "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲",
+            "required": true,
+            "value": "Honey RoBot"
+        },
+        "BOT_TOKEN": {
+            "description": "𝗚𝗲𝘁 𝗕𝗼𝘁 𝗧𝗼𝗸𝗲𝗻 𝗢𝗳 𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗙𝗿𝗼𝗺 𝗕𝗼𝘁𝗙𝗮𝘁𝗵𝗲𝗿",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗨𝘀𝗲𝗿𝗡𝗮𝗺𝗲 (𝗪𝗶𝘁𝗵𝗼𝘂𝘁 '@')",
+            "required": true,
+            "value": "Honey_Music_Robot"
+        },
+        "DURATION_LIMIT": {
+            "description": "𝗦𝗲𝘁 𝗠𝗮𝘅𝗶𝗺𝘂𝗺 𝗠𝘂𝘀𝗶𝗰 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗟𝗶𝗺𝗶𝘁 (𝗠𝗶𝗻𝘂𝘁𝗲𝘀) 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁",
+            "required": true,
+            "value": "300"
+        },
+        "OWNER_NAME": {
+            "description": "𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲",
+            "required": true,
+            "value": "𝗦𝗔𝗥𝗞𝗔𝗥"
+        },
+        "OWNER_USERNAME": {
+            "description": "𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗨𝘀𝗲𝗿𝗡𝗮𝗺𝗲",
+            "required": true,
+            "value": "Rjbr0"
+        },
+        "SOURCE_CODE": {
+            "description": "𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗟𝗶𝗻𝗸 𝗙𝗼𝗿 𝗙𝘂𝘁𝘂𝗿𝗲 𝗨𝗽𝗱𝗮𝘁𝗲𝘀",
+            "required": true,
+            "value": "https://github.com/LeeyooMuzicBot/PriyaMusic"
+        },
+        "STRING_SESSION": {
+            "description": "𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 𝗦𝘁𝗿𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 (𝗚𝗲𝘁 𝗶𝘁 𝗙𝗿𝗼𝗺 𝗥𝗲𝗽𝗹𝗶𝘁)",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "𝗦𝘂𝗱𝗼 𝗨𝘀𝗲𝗿𝘀 𝗖𝗮𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗕𝗼𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗔𝗱𝗺𝗶𝗻 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻",
+            "required": true,
+            "value": "5056205033"
+            
+        },
+        "SUPPORT_GROUP": {
+            "description": "𝗬𝗼𝘂𝗿 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗚𝗿𝗼𝘂𝗽 𝗙𝘂𝗹𝗹 𝗟𝗶𝗻𝗸",
+            "required": true,
+            "value": "https://t.me/Telugu_prajalu"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "𝗬𝗼𝘂𝗿 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗙𝘂𝗹𝗹 𝗟𝗶𝗻𝗸",
+            "required": true,
+            "value": "https://t.me/rjbr0"
+        }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ]
+}
