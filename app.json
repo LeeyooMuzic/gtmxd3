@@ -1,9 +1,9 @@
 {
-    "name": "GMBXD2",
+    "name": "GMBXD3",
     "logo": "https://te.legra.ph/file/43eb81b7a99092f9a3197.jpg",
     "description": "🌱 𝗚𝗿𝗼𝗼𝘁 𝗠𝘂𝘀𝗶𝗰 𝗶𝘀 𝗮 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗚𝗿𝗼𝘂𝗽 𝗖𝗮𝗹𝗹𝘀 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗕𝗼𝘁 𝗪𝗶𝘁𝗵 𝗦𝗼𝗺𝗲 𝘂𝘀𝗲𝗳𝘂𝗹 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝘀.",
     "keywords": ["grootmusicbot", "voice chat", "telegram"],
-    "repository": "https://github.com/9505GrootXD/GMBXD2",
+    "repository": "https://github.com/9505GrootXD/GMBXD3",
     "stack": "container",
     "env": {
         "API_HASH": {
