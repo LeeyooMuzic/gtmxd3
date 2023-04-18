@@ -17,12 +17,12 @@
         "ASSISTANT_NAME": {
             "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗡𝗮𝗺𝗲",
             "required": true,
-            "value": "𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸"
+            "value": "𝐇𝐨𝐧𝐞𝐲 𝐌𝐮𝐬𝐢𝐜"
         },
         "ASSISTANT_USERNAME": {
             "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗨𝘀𝗲𝗿𝗡𝗮𝗺𝗲 (𝗪𝗶𝘁𝗵𝗼𝘂𝘁 '@')",
             "required": true,
-            "value": "GnetworkMusic"
+            "value": "Honey_Music_Player"
         },
         "BOT_IMAGE": {
             "description": "𝗕𝗼𝘁 𝗜𝗺𝗮𝗴𝗲 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗟𝗶𝗻𝗸",
@@ -32,7 +32,7 @@
         "BOT_NAME": {
             "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲",
             "required": true,
-            "value": "Honey RoBot"
+            "value": "𝐇𝐨𝐧𝐞𝐲 ✘ 𝐑𝐨𝐛𝐨𝐓"
         },
         "BOT_TOKEN": {
             "description": "𝗚𝗲𝘁 𝗕𝗼𝘁 𝗧𝗼𝗸𝗲𝗻 𝗢𝗳 𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗙𝗿𝗼𝗺 𝗕𝗼𝘁𝗙𝗮𝘁𝗵𝗲𝗿",
@@ -51,7 +51,7 @@
         "OWNER_NAME": {
             "description": "𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲",
             "required": true,
-            "value": "𝗦𝗔𝗥𝗞𝗔𝗥"
+            "value": "𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭"
         },
         "OWNER_USERNAME": {
             "description": "𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗨𝘀𝗲𝗿𝗡𝗮𝗺𝗲",
@@ -70,7 +70,7 @@
         "SUDO_USERS": {
             "description": "𝗦𝘂𝗱𝗼 𝗨𝘀𝗲𝗿𝘀 𝗖𝗮𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗕𝗼𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗔𝗱𝗺𝗶𝗻 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻",
             "required": true,
-            "value": "5056205033"
+            "value": "6285755686"
             
         },
         "SUPPORT_GROUP": {
