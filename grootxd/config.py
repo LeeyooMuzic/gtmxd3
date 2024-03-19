@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()
 que = {}
 admins = {}
-aiohttpsession = aiohttp.ClientSession()
-session.close()
+if os.path.exists("Internal"):
+  load_dotenv("Internal")
 
 # 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱 𝗩𝗮𝗿𝗶𝗮𝗯𝗹𝗲𝘀 //🌱𝗢𝘄𝗻𝗲𝗿 @𝗚𝗿𝗼𝗼𝘁_𝗡𝗲𝘁𝘄𝗼𝗿𝗸 @𝗥𝗝𝗯𝗿0
 API_HASH = getenv("API_HASH", "XXXXX")
