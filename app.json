@@ -17,7 +17,7 @@
         "ASSISTANT_NAME": {
             "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗡𝗮𝗺𝗲",
             "required": true,
-            "value": "𝐇𝐨𝐧𝐞𝐲 𝐌𝐮𝐬𝐢𝐜"
+            "value": "𝐄𝐥𝐬𝐚 𝐌𝐮𝐬𝐢𝐜"
         },
         "ASSISTANT_USERNAME": {
             "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗨𝘀𝗲𝗿𝗡𝗮𝗺𝗲 (𝗪𝗶𝘁𝗵𝗼𝘂𝘁 '@')",
@@ -27,12 +27,12 @@
         "BOT_IMAGE": {
             "description": "𝗕𝗼𝘁 𝗜𝗺𝗮𝗴𝗲 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗟𝗶𝗻𝗸",
             "required": true,
-            "value": "https://graph.org/file/b2bf6e60f7e6cdb433ce4.jpg"
+            "value": "https://telegra.ph//file/2302d6ab00c5052d28336.jpg"
         },
         "BOT_NAME": {
             "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲",
             "required": true,
-            "value": "𝐇𝐨𝐧𝐞𝐲 ✘ 𝐑𝐨𝐛𝐨𝐓"
+            "value": "𝐄𝐥𝐬𝐚 ✘ 𝐑𝐨𝐛𝐨𝐓"
         },
         "BOT_TOKEN": {
             "description": "𝗚𝗲𝘁 𝗕𝗼𝘁 𝗧𝗼𝗸𝗲𝗻 𝗢𝗳 𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗙𝗿𝗼𝗺 𝗕𝗼𝘁𝗙𝗮𝘁𝗵𝗲𝗿",
@@ -41,7 +41,7 @@
         "BOT_USERNAME": {
             "description": "𝗬𝗼𝘂𝗿 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗨𝘀𝗲𝗿𝗡𝗮𝗺𝗲 (𝗪𝗶𝘁𝗵𝗼𝘂𝘁 '@')",
             "required": true,
-            "value": "Honey_Music_Robot"
+            "value": "Elsa_Music_Robot"
         },
         "DURATION_LIMIT": {
             "description": "𝗦𝗲𝘁 𝗠𝗮𝘅𝗶𝗺𝘂𝗺 𝗠𝘂𝘀𝗶𝗰 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗟𝗶𝗺𝗶𝘁 (𝗠𝗶𝗻𝘂𝘁𝗲𝘀) 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁",
@@ -51,12 +51,12 @@
         "OWNER_NAME": {
             "description": "𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲",
             "required": true,
-            "value": "𝐈𝐚𝐦 𝐆𝐫𝐨𝐨𝐭"
+            "value": "vinay"
         },
         "OWNER_USERNAME": {
             "description": "𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗨𝘀𝗲𝗿𝗡𝗮𝗺𝗲",
             "required": true,
-            "value": "Rjbr0"
+            "value": "vinayspy"
         },
         "SOURCE_CODE": {
             "description": "𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗟𝗶𝗻𝗸 𝗙𝗼𝗿 𝗙𝘂𝘁𝘂𝗿𝗲 𝗨𝗽𝗱𝗮𝘁𝗲𝘀",
@@ -70,7 +70,7 @@
         "SUDO_USERS": {
             "description": "𝗦𝘂𝗱𝗼 𝗨𝘀𝗲𝗿𝘀 𝗖𝗮𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗕𝗼𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗔𝗱𝗺𝗶𝗻 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻",
             "required": true,
-            "value": "6285755686"
+            "value": "5056205033"
             
         },
         "SUPPORT_GROUP": {
